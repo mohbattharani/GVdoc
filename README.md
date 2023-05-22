@@ -1,4 +1,5 @@
-# This repository contains code for "Graph-based Visual Document Classification for Out-Of-Distribution Data" paper.
+
+# Title: Graph-based Visual Document Classification for Out-Of-Distribution Data.
 
 
 CODE: COMING SOON
