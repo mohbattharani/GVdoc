@@ -1,6 +1,6 @@
 # This repository contains code for "Graph-based Visual Document Classification for Out-Of-Distribution Data" paper.
 
-
+\cite{key}
 @article{mohbat2023graph,
   title={Graph-based Visual Document Classification for Out-Of-Distribution Data},
   author={Fnu Mohbat, Mohammed J. Zaki, Catherine Finegan-Dollak, Ashish Verma},
