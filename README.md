@@ -10,7 +10,7 @@ The robustness of a model for real-world deployment is decided by how well it pe
 
 
 ```bibtex
-@article{mohbat2023graph,
+@article{mohbat2023GVdoc,
   title={GVdoc -- Graph-based Visual DOcument Classification},
   author={Fnu Mohbat, Mohammed J. Zaki, Catherine Finegan-Dollak, Ashish Verma},
   booktitle = {Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL)},
