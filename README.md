@@ -1,5 +1,5 @@
 
-# Title: GVdoc -- Graph-based Visual DOcument Classification 
+# Title: [GVdoc -- Graph-based Visual DOcument Classification](https://arxiv.org/pdf/2305.17219.pdf) 
 
 
 CODE: COMING SOON
